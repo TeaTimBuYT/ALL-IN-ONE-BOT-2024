@@ -1,8 +1,8 @@
 {
-    "token": "",
+    "token": "MTI1MzI4NzM2NDc3NjgyNDg2Mw.Gs5u4p.-u6mfLgPzmaGY-IzNlsXQqQIn98aMC2ArqAJvQ",
     "language": "en",
     "prefix": "!",
-    "mongodbUri": "",
+    "mongodbUri": "mongodb+srv://anuragsharma1977:<As@15011977>@glaceytbot.kbtvmmo.mongodb.net/?retryWrites=true&w=majority&appName=glaceytbot",
     "geniusToken": "0CHr9jtPjR7EKraXUVv6__8ELmEwFeUwt5vYAhk-is_fGOq-10-epdMzESkMPUnf",
     "excessCommands": {
         "utility": true,
